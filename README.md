@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="PLACEHOLDER_IMAGE_URL" alt="zapretstat screenshot" width="100%">
+  <img src="https://github.com/popmanpop27/zapretstat/blob/main/screenshot.png?raw=true" alt="zapretstat screenshot" width="100%">
 </p>
 
 <h1 align="center">zapretstat</h1>
