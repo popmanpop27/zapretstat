@@ -33,6 +33,8 @@ It reads telemetry logs (`jsonl`) produced by `zapretstatd` and displays:
 
 The interface automatically refreshes and works directly in the terminal.
 
+It contains 2 components: internet checker(runs in systemd on linux), is gains logs about internet activity and stores it in file, and the client which draws graph in terminal.
+
 ---
 
 ## Features
